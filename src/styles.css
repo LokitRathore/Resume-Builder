@@ -1,0 +1,81 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.* {
+  box-sizing: border-box;
+}
+.card {
+  width: 25rem;
+  overflow: hidden;
+  text-overflow: clip;
+  border: 2px solid;
+  margin-bottom: 1%;
+}
+.title {
+  text-align: center;
+  /* background-color: yellow; */
+}
+.checkbox {
+  height: 26px;
+}
+.forCheck {
+  width: 110px;
+  height: 30px;
+  border-radius: 5px;
+  /* border: 1px solid blue; */
+  display: flex;
+  flex-direction: row;
+  margin-left: 1px;
+  margin-top: 1px;
+  padding-left: 5px;
+  margin-bottom: -8%;
+  background-color: coral;
+}
+.com {
+}
+.forId {
+  /* margin-left: 5px;
+  margin-top: 10px; */
+  /* text-align: center; */
+}
+.forUserId {
+  /* border: 1px solid black; */
+  text-align: center;
+}
+.completedData {
+  /* border: 1px solid black; */
+  text-align: center;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.list-box {
+  display: flex;
+}
+
+.completed {
+  background-color: #e2d2f2;
+  width: 50vw;
+}
+
+.pending {
+  background-color: #dcdcdc;
+  width: 50vw;
+}
+
+.todo-box {
+  border: 1px solid black;
+  margin: 10px;
+}
+
+.completed-list-box {
+  background-color: #dcdcdc;
+}
+
+.pending-list-box {
+  background-color: #e2d2f2;
+}
+

@@ -1,0 +1,29 @@
+.FrontFlexLeft {
+  /* background-clip: text; */
+  margin: 10 auto;
+  color: black;
+  max-width: 500px;
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+.FrontFlexLeft span {
+  color: aqua;
+}
+.container {
+  display: flex;
+}
+.contact p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.contactname {
+  margin-bottom: 0px;
+}
+.contactRp {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.buttons {
+  display: flex;
+  justify-content: space-around;
+}
